@@ -18,11 +18,15 @@
 ### Web Development
   ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+### Angular Framework
   ![Angular](https://img.shields.io/badge/-Angular-red)
+  ![Flask](https://img.shields.io/badge/-Flask-lightgrey)
 
 ### Data and Databases
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
- ![SQL](https://img.shields.io/badge/-SQL-red)
+  ![SQL](https://img.shields.io/badge/-SQL-red)
 
 ### Cloud Technologies
   ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
