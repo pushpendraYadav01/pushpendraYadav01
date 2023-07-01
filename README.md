@@ -1,19 +1,22 @@
-# Hi, I'm Pushpendra Yadav! 👋
-
-## About Me
-I'm a Senior Analyst at Capgemini, specializing in machine learning, Python, C, C++, Linux, SQL, DevOps, HTML, CSS, and Angular.
-
 ## Technologies I Work With
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
+
+### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-yellow)
 - ![C](https://img.shields.io/badge/-C-blue)
 - ![C++](https://img.shields.io/badge/-C%2B%2B-purple)
-- ![Linux](https://img.shields.io/badge/-Linux-orange)
-- ![SQL](https://img.shields.io/badge/-SQL-red)
-- ![DevOps](https://img.shields.io/badge/-DevOps-green)
+
+### Web Development
 - ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
 - ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
 - ![Angular](https://img.shields.io/badge/-Angular-red)
+
+### Data and Databases
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
+- ![SQL](https://img.shields.io/badge/-SQL-red)
+
+### DevOps and Infrastructure
+- ![Linux](https://img.shields.io/badge/-Linux-orange)
+- ![DevOps](https://img.shields.io/badge/-DevOps-green)
 
 ## Projects
 I have worked on various projects in the field of machine learning, utilizing Python and other technologies. Some of my notable projects include:
