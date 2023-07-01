@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/pushpendra-yadav-2031971ba/">
   <img align="left" alt="Amritansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=amritanshdeo89&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+<img src="https://komarev.com/ghpvc/?username=pushpendraYadav01&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendraYadav01" />
 
 📫 How to reach me **pushpendrayadav6008@gmail.com**
  
@@ -34,6 +34,17 @@
 ### DevOps and Infrastructure
   ![Linux](https://img.shields.io/badge/-Linux-orange)
   ![DevOps](https://img.shields.io/badge/-DevOps-green)
+
+### Software
+- ![Postman](https://img.shields.io/badge/-Postman-orange)
+
+
+<h3 align="left">Github Stat's:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpendraYadav01&show_icons=true&locale=en&layout=compact" alt="pushpendraYadav01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpendraYadav01&show_icons=true&locale=en" alt="pushpendraYadav01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendraYadav01&" alt="pushpendraYadav01" /></p>
 
 
 
