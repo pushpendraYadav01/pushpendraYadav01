@@ -6,7 +6,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=amritanshdeo89&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
-- 📫 How to reach me **pushpendrayadav6008@gmail.com**
+📫 How to reach me **pushpendrayadav6008@gmail.com**
  
 ## Technologies I Work With
 
