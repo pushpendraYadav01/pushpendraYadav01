@@ -7,29 +7,29 @@
 <img src="https://komarev.com/ghpvc/?username=amritanshdeo89&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
 - 📫 How to reach me **pushpendrayadav6008@gmail.com**
-- 
+ 
 ## Technologies I Work With
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-yellow)
-- ![C](https://img.shields.io/badge/-C-blue)
-- ![C++](https://img.shields.io/badge/-C%2B%2B-purple)
+  ![Python](https://img.shields.io/badge/-Python-yellow)
+  ![C](https://img.shields.io/badge/-C-blue)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-purple)
 
 ### Web Development
-- ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
-- ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-- ![Angular](https://img.shields.io/badge/-Angular-red)
+  ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
+  ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
+  ![Angular](https://img.shields.io/badge/-Angular-red)
 
 ### Data and Databases
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
-- ![SQL](https://img.shields.io/badge/-SQL-red)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
+ ![SQL](https://img.shields.io/badge/-SQL-red)
 
 ### Cloud Technologies
-- ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
+  ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
 
 ### DevOps and Infrastructure
-- ![Linux](https://img.shields.io/badge/-Linux-orange)
-- ![DevOps](https://img.shields.io/badge/-DevOps-green)
+  ![Linux](https://img.shields.io/badge/-Linux-orange)
+  ![DevOps](https://img.shields.io/badge/-DevOps-green)
 
 
 
