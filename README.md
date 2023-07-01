@@ -1,3 +1,13 @@
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Pushpendra Yadav
+### A passionate and aspiring Data Scientist from India
+
+<a href="https://www.linkedin.com/in/pushpendra-yadav-2031971ba/">
+  <img align="left" alt="Amritansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=amritanshdeo89&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+
+- 📫 How to reach me **pushpendrayadav6008@gmail.com**
+- 
 ## Technologies I Work With
 
 ### Programming Languages
@@ -18,15 +28,7 @@
 - ![Linux](https://img.shields.io/badge/-Linux-orange)
 - ![DevOps](https://img.shields.io/badge/-DevOps-green)
 
-## Projects
-I have worked on various projects in the field of machine learning, utilizing Python and other technologies. Some of my notable projects include:
-- Project 1
-- Project 2
-- Project 3
 
-## Contact Me
-Feel free to reach out to me through the following channels:
-- Email: your_email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
 
 Let's connect and collaborate on exciting projects!
