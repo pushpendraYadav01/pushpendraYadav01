@@ -24,7 +24,7 @@
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
 - ![SQL](https://img.shields.io/badge/-SQL-red)
 
-- ### Cloud Technologies
+### Cloud Technologies
 - ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
 
 ### DevOps and Infrastructure
