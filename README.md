@@ -1,11 +1,11 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Pushpendra Yadav
 ### I'm a Senior Analyst at Capgemini, specializing in machine learning, Python, C, C++, Linux, SQL, DevOps, HTML, CSS, and Angular. I have experience working on various projects in machine learning and web development, utilizing technologies like Python, HTML, CSS, and JavaScript. I'm also proficient in using frameworks like Angular and Flask. I have a strong background in data analysis and databases, including SQL. Additionally, I have knowledge of cloud technologies such as AWS and tools like Postman.
 
-
 <a href="https://www.linkedin.com/in/pushpendra-yadav-2031971ba/">
   <img align="left" alt="Pushpendra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=pushpendraYadav01&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendraYadav01" />
+<img align="left" src="https://komarev.com/ghpvc/?username=pushpendraYadav01&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendraYadav01" />
+
 
 📫 How to reach me **pushpendrayadav6008@gmail.com**
  
